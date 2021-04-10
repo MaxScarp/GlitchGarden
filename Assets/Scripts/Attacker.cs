@@ -3,6 +3,7 @@ using UnityEngine;
 public class Attacker : MonoBehaviour
 {
     [SerializeField] int health = 10;
+    [SerializeField] GameObject deathVFX;
 
     float movementSpeed = 0.9f;
 
@@ -22,10 +23,17 @@ public class Attacker : MonoBehaviour
     {
         health -= collision.GetComponent<DamageDealer>().GetDamage();
         Destroy(collision.gameObject);
-
-        if(health <= 0)
+        if (health <= 0)
         {
+            TriggerDeathVFX();
             Destroy(gameObject);
         }
+    }
+
+    private void TriggerDeathVFX()
+    {
+        if(!deathVFX) { return; }
+        GameObject smoke = Instantiate(deathVFX, (new Vector2(transform.position.x + -0.3f, transform.position.y)), transform.rotation);
+        Destroy(smoke, 1.5f);
     }
 }

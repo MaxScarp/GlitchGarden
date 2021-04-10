@@ -118,6 +118,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   health: 10
+  deathVFX: {fileID: 6818436057972316261, guid: f6ae28319c04f084fa38010e363c2272, type: 3}
 --- !u!60 &8777910244077066019
 PolygonCollider2D:
   m_ObjectHideFlags: 0
