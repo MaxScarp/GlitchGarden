@@ -1,5 +1,4 @@
 using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
 
 public class AttackerSpawner : MonoBehaviour
@@ -12,7 +11,7 @@ public class AttackerSpawner : MonoBehaviour
 
     IEnumerator Start()
     {
-        while(spawn)
+        while (spawn)
         {
             yield return new WaitForSeconds(Random.Range(minSpawnDelay, maxSpawnDelay));
             SpawnAttacker();
