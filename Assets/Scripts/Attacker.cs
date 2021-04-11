@@ -32,7 +32,7 @@ public class Attacker : MonoBehaviour
 
     private void TriggerDeathVFX()
     {
-        if(!deathVFX) { return; }
+        if (!deathVFX) { return; }
         GameObject smoke = Instantiate(deathVFX, (new Vector2(transform.position.x + -0.3f, transform.position.y)), transform.rotation);
         Destroy(smoke, 1.5f);
     }

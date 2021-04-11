@@ -23,8 +23,14 @@ public class LevelLoader : MonoBehaviour
         LoadNextScene();
     }
 
-    private void LoadNextScene()
+    public void LoadNextScene()
     {
+        currentSceneIndex = SceneManager.GetActiveScene().buildIndex;
         SceneManager.LoadScene(currentSceneIndex + 1);
+    }
+
+    public void Quit()
+    {
+        Application.Quit();
     }
 }
