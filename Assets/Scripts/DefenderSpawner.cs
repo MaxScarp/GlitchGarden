@@ -1,5 +1,3 @@
-using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
 
 public class DefenderSpawner : MonoBehaviour
@@ -10,11 +8,20 @@ public class DefenderSpawner : MonoBehaviour
     {
         Vector2 clickPosition = new Vector2(Input.mousePosition.x, Input.mousePosition.y);
         Vector2 worldPosition = Camera.main.ScreenToWorldPoint(clickPosition);
-        return worldPosition;
+        Vector2 gridPosition = SnapToGrid(worldPosition);
+        return gridPosition;
+    }
+
+    private Vector2 SnapToGrid(Vector2 worldPosition)
+    {
+        float newX = Mathf.RoundToInt(worldPosition.x);
+        float newY = Mathf.RoundToInt(worldPosition.y);
+        return new Vector2(newX, newY);
     }
 
     private void OnMouseDown()
     {
         GameObject defender = Instantiate(defenderPrefab, GetSquareClicked(), Quaternion.identity);
+        Debug.Log(defender.transform.position);
     }
 }
