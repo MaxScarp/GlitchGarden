@@ -9,6 +9,22 @@ public class DefenderSpawner : MonoBehaviour
         this.defenderPrefab = defenderPrefab;
     }
 
+    private void AttemptToPlaceDefenderAt(Vector2 gridPos)
+    {
+        var starDisplay = FindObjectOfType<StarDisplay>();
+        int defenderCost = defenderPrefab.GetStarCost();
+        if(starDisplay.HaveEnoughStars(defenderCost))
+        {
+            SpawnDefender(gridPos);
+            starDisplay.SpendStars(defenderCost);
+        }
+    }
+
+    private void SpawnDefender(Vector2 gridPos)
+    {
+        Defender defender = Instantiate(defenderPrefab, gridPos, Quaternion.identity) as Defender;
+    }
+
     private Vector2 GetSquareClicked()
     {
         Vector2 clickPosition = new Vector2(Input.mousePosition.x, Input.mousePosition.y);
@@ -26,6 +42,6 @@ public class DefenderSpawner : MonoBehaviour
 
     private void OnMouseDown()
     {
-        Defender defender = Instantiate(defenderPrefab, GetSquareClicked(), Quaternion.identity) as Defender;
+        AttemptToPlaceDefenderAt(GetSquareClicked());
     }
 }
