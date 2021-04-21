@@ -1,0 +1,2268 @@
+fileFormatVersion: 2
+guid: 08369846e0b71eb439094e8bb1e1cf65
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6624059383610790806
+    second: npc_deimaginator__x1_talk_png_1354836032 1_0
+  - first:
+      213: -4465461180693270815
+    second: npc_deimaginator__x1_talk_png_1354836032 1_1
+  - first:
+      213: -6918303761992011932
+    second: npc_deimaginator__x1_talk_png_1354836032 1_2
+  - first:
+      213: -6552636628786647178
+    second: npc_deimaginator__x1_talk_png_1354836032 1_3
+  - first:
+      213: -1629687118298138863
+    second: npc_deimaginator__x1_talk_png_1354836032 1_4
+  - first:
+      213: 8423941241938582513
+    second: npc_deimaginator__x1_talk_png_1354836032 1_5
+  - first:
+      213: 5886033045123739973
+    second: npc_deimaginator__x1_talk_png_1354836032 1_6
+  - first:
+      213: 2748740011141394912
+    second: npc_deimaginator__x1_talk_png_1354836032 1_7
+  - first:
+      213: -761382861910776086
+    second: npc_deimaginator__x1_talk_png_1354836032 1_8
+  - first:
+      213: 2117603542498104854
+    second: npc_deimaginator__x1_talk_png_1354836032 1_9
+  - first:
+      213: -2085138990312568919
+    second: npc_deimaginator__x1_talk_png_1354836032 1_10
+  - first:
+      213: 4330969620279725170
+    second: npc_deimaginator__x1_talk_png_1354836032 1_11
+  - first:
+      213: -3848471567164331622
+    second: npc_deimaginator__x1_talk_png_1354836032 1_12
+  - first:
+      213: 3972551257431439874
+    second: npc_deimaginator__x1_talk_png_1354836032 1_13
+  - first:
+      213: -6125743256215556084
+    second: npc_deimaginator__x1_talk_png_1354836032 1_14
+  - first:
+      213: 8595339994521762200
+    second: npc_deimaginator__x1_talk_png_1354836032 1_15
+  - first:
+      213: 2451324538469357828
+    second: npc_deimaginator__x1_talk_png_1354836032 1_16
+  - first:
+      213: 1598807773726094403
+    second: npc_deimaginator__x1_talk_png_1354836032 1_17
+  - first:
+      213: -2491547038720380063
+    second: npc_deimaginator__x1_talk_png_1354836032 1_18
+  - first:
+      213: -7240565762126510908
+    second: npc_deimaginator__x1_talk_png_1354836032 1_19
+  - first:
+      213: -7708662390027630619
+    second: npc_deimaginator__x1_talk_png_1354836032 1_20
+  - first:
+      213: -1040859624672752437
+    second: npc_deimaginator__x1_talk_png_1354836032 1_21
+  - first:
+      213: -6435817167407536971
+    second: npc_deimaginator__x1_talk_png_1354836032 1_22
+  - first:
+      213: -6280510427317044533
+    second: npc_deimaginator__x1_talk_png_1354836032 1_23
+  - first:
+      213: 5576707167281374478
+    second: npc_deimaginator__x1_talk_png_1354836032 1_24
+  - first:
+      213: 9138098566457006048
+    second: npc_deimaginator__x1_talk_png_1354836032 1_25
+  - first:
+      213: 7748635513428474897
+    second: npc_deimaginator__x1_talk_png_1354836032 1_26
+  - first:
+      213: 552715388842911679
+    second: npc_deimaginator__x1_talk_png_1354836032 1_27
+  - first:
+      213: 5189995269925389510
+    second: npc_deimaginator__x1_talk_png_1354836032 1_28
+  - first:
+      213: -571924964416961246
+    second: npc_deimaginator__x1_talk_png_1354836032 1_29
+  - first:
+      213: -1554888744224540839
+    second: npc_deimaginator__x1_talk_png_1354836032 1_30
+  - first:
+      213: 4732323410465626658
+    second: npc_deimaginator__x1_talk_png_1354836032 1_31
+  - first:
+      213: -9132623683814404887
+    second: npc_deimaginator__x1_talk_png_1354836032 1_32
+  - first:
+      213: 669740566231375502
+    second: npc_deimaginator__x1_talk_png_1354836032 1_33
+  - first:
+      213: 8282452870710723665
+    second: npc_deimaginator__x1_talk_png_1354836032 1_34
+  - first:
+      213: 7615351571871856849
+    second: npc_deimaginator__x1_talk_png_1354836032 1_35
+  - first:
+      213: 7959242022972533800
+    second: npc_deimaginator__x1_talk_png_1354836032 1_36
+  - first:
+      213: 7747089950743626198
+    second: npc_deimaginator__x1_talk_png_1354836032 1_37
+  - first:
+      213: -1003387329078023589
+    second: npc_deimaginator__x1_talk_png_1354836032 1_38
+  - first:
+      213: -5664087639196046027
+    second: npc_deimaginator__x1_talk_png_1354836032 1_39
+  - first:
+      213: -1974452291168459611
+    second: npc_deimaginator__x1_talk_png_1354836032 1_40
+  - first:
+      213: 6715285489804754173
+    second: npc_deimaginator__x1_talk_png_1354836032 1_41
+  - first:
+      213: -6375199335906341446
+    second: npc_deimaginator__x1_talk_png_1354836032 1_42
+  - first:
+      213: 8943466253685848109
+    second: npc_deimaginator__x1_talk_png_1354836032 1_43
+  - first:
+      213: 93601996627139572
+    second: npc_deimaginator__x1_talk_png_1354836032 1_44
+  - first:
+      213: 829964527858317716
+    second: npc_deimaginator__x1_talk_png_1354836032 1_45
+  - first:
+      213: 9113881873462555988
+    second: npc_deimaginator__x1_talk_png_1354836032 1_46
+  - first:
+      213: -4891639717282212757
+    second: npc_deimaginator__x1_talk_png_1354836032 1_47
+  - first:
+      213: -6056634875967752450
+    second: npc_deimaginator__x1_talk_png_1354836032 1_48
+  - first:
+      213: 4547901893993628698
+    second: npc_deimaginator__x1_talk_png_1354836032 1_49
+  - first:
+      213: 4907868208995116323
+    second: npc_deimaginator__x1_talk_png_1354836032 1_50
+  - first:
+      213: 9025645583997293949
+    second: npc_deimaginator__x1_talk_png_1354836032 1_51
+  - first:
+      213: 8216948171866578630
+    second: npc_deimaginator__x1_talk_png_1354836032 1_52
+  - first:
+      213: 2913233783520175883
+    second: npc_deimaginator__x1_talk_png_1354836032 1_53
+  - first:
+      213: -6086293222356039664
+    second: npc_deimaginator__x1_talk_png_1354836032 1_54
+  - first:
+      213: -2193468615660553990
+    second: npc_deimaginator__x1_talk_png_1354836032 1_55
+  - first:
+      213: 2594199016474648745
+    second: npc_deimaginator__x1_talk_png_1354836032 1_56
+  - first:
+      213: 1871458046115104831
+    second: npc_deimaginator__x1_talk_png_1354836032 1_57
+  - first:
+      213: 9067096856331789803
+    second: npc_deimaginator__x1_talk_png_1354836032 1_58
+  - first:
+      213: -8959014894792176656
+    second: npc_deimaginator__x1_talk_png_1354836032 1_59
+  - first:
+      213: 5918470100012133659
+    second: npc_deimaginator__x1_talk_png_1354836032 1_60
+  - first:
+      213: 6294732995130163606
+    second: npc_deimaginator__x1_talk_png_1354836032 1_61
+  - first:
+      213: -468884839555632133
+    second: npc_deimaginator__x1_talk_png_1354836032 1_62
+  - first:
+      213: 5443277221853304574
+    second: npc_deimaginator__x1_talk_png_1354836032 1_63
+  - first:
+      213: -8575280201229238746
+    second: npc_deimaginator__x1_talk_png_1354836032 1_64
+  - first:
+      213: 8808061156783096821
+    second: npc_deimaginator__x1_talk_png_1354836032 1_65
+  - first:
+      213: 4442139916592045799
+    second: npc_deimaginator__x1_talk_png_1354836032 1_66
+  - first:
+      213: -3678658180960488616
+    second: npc_deimaginator__x1_talk_png_1354836032 1_67
+  - first:
+      213: 6993472095032536972
+    second: npc_deimaginator__x1_talk_png_1354836032 1_68
+  - first:
+      213: -9013198047322217764
+    second: npc_deimaginator__x1_talk_png_1354836032 1_69
+  - first:
+      213: -3346327501871792303
+    second: npc_deimaginator__x1_talk_png_1354836032 1_70
+  - first:
+      213: -4537669876841036969
+    second: npc_deimaginator__x1_talk_png_1354836032 1_71
+  - first:
+      213: -2677923802112752981
+    second: npc_deimaginator__x1_talk_png_1354836032 1_72
+  - first:
+      213: 3915557924546413651
+    second: npc_deimaginator__x1_talk_png_1354836032 1_73
+  - first:
+      213: 4110808062644715891
+    second: npc_deimaginator__x1_talk_png_1354836032 1_74
+  - first:
+      213: 8969952696004767207
+    second: npc_deimaginator__x1_talk_png_1354836032 1_75
+  - first:
+      213: -4445682456400435345
+    second: npc_deimaginator__x1_talk_png_1354836032 1_76
+  - first:
+      213: -3435334534254557966
+    second: npc_deimaginator__x1_talk_png_1354836032 1_77
+  - first:
+      213: -3405969756089171376
+    second: npc_deimaginator__x1_talk_png_1354836032 1_78
+  - first:
+      213: -8139270226297511416
+    second: npc_deimaginator__x1_talk_png_1354836032 1_79
+  - first:
+      213: 6302678710331010869
+    second: npc_deimaginator__x1_talk_png_1354836032 1_80
+  - first:
+      213: -6315207979393000552
+    second: npc_deimaginator__x1_talk_png_1354836032 1_81
+  - first:
+      213: -1124724970442727825
+    second: npc_deimaginator__x1_talk_png_1354836032 1_82
+  - first:
+      213: -4697483880214918296
+    second: npc_deimaginator__x1_talk_png_1354836032 1_83
+  - first:
+      213: 5748698543736350840
+    second: npc_deimaginator__x1_talk_png_1354836032 1_84
+  - first:
+      213: -4285600439294306005
+    second: npc_deimaginator__x1_talk_png_1354836032 1_85
+  - first:
+      213: -5336375785669127756
+    second: npc_deimaginator__x1_talk_png_1354836032 1_86
+  - first:
+      213: 7025904961397463272
+    second: npc_deimaginator__x1_talk_png_1354836032 1_87
+  - first:
+      213: 7553115168693888179
+    second: npc_deimaginator__x1_talk_png_1354836032 1_88
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: npc_deimaginator__x1_talk_png_1354836032 1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 930
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 693d633e9e26deb50800000000000000
+      internalID: 6624059383610790806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_deimaginator__x1_talk_png_1354836032 1_1
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 930
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ee2b7617be7702c0800000000000000
+      internalID: -4465461180693270815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_deimaginator__x1_talk_png_1354836032 1_2
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 930
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46fa73a126f3dff90800000000000000
+      internalID: -6918303761992011932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_deimaginator__x1_talk_png_1354836032 1_3
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 930
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67f65f614bb5015a0800000000000000
+      internalID: -6552636628786647178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_deimaginator__x1_talk_png_1354836032 1_4
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 930
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1173fca43303269e0800000000000000
+      internalID: -1629687118298138863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_deimaginator__x1_talk_png_1354836032 1_5
+      rect:
+        serializedVersion: 2
+        x: 1255
+        y: 930
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fb13867de9d7e470800000000000000
+      internalID: 8423941241938582513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_deimaginator__x1_talk_png_1354836032 1_6
+      rect:
+        serializedVersion: 2
+        x: 1506
+        y: 930
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 541bfc67ed36fa150800000000000000
+      internalID: 5886033045123739973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_deimaginator__x1_talk_png_1354836032 1_7
+      rect:
+        serializedVersion: 2
+        x: 1757
+        y: 930
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e17cf70a7c752620800000000000000
+      internalID: 2748740011141394912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_deimaginator__x1_talk_png_1354836032 1_8
+      rect:
+        serializedVersion: 2
+        x: 2008
+        y: 930
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae6ecb132560f65f0800000000000000
+      internalID: -761382861910776086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_deimaginator__x1_talk_png_1354836032 1_9
+      rect:
+        serializedVersion: 2
+        x: 2259
+        y: 930
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61655bdc33d336d10800000000000000
+      internalID: 2117603542498104854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_deimaginator__x1_talk_png_1354836032 1_10
+      rect:
+        serializedVersion: 2
+        x: 2510
+        y: 930
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a74a17c2291013e0800000000000000
+      internalID: -2085138990312568919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_deimaginator__x1_talk_png_1354836032 1_11
+      rect:
+        serializedVersion: 2
+        x: 2761
+        y: 930
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27c08c55ce1ba1c30800000000000000
+      internalID: 4330969620279725170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_deimaginator__x1_talk_png_1354836032 1_12
+      rect:
+        serializedVersion: 2
+        x: 3012
+        y: 930
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a99aafeef7b779ac0800000000000000
+      internalID: -3848471567164331622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_deimaginator__x1_talk_png_1354836032 1_13
+      rect:
+        serializedVersion: 2
+        x: 3263
+        y: 930
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20a7b373256512730800000000000000
+      internalID: 3972551257431439874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_deimaginator__x1_talk_png_1354836032 1_14
+      rect:
+        serializedVersion: 2
+        x: 3514
+        y: 930
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c00f60cc6fcfcfaa0800000000000000
+      internalID: -6125743256215556084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_deimaginator__x1_talk_png_1354836032 1_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 744
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8997d295f28c84770800000000000000
+      internalID: 8595339994521762200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_deimaginator__x1_talk_png_1354836032 1_16
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 744
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4091aa81eaad40220800000000000000
+      internalID: 2451324538469357828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_deimaginator__x1_talk_png_1354836032 1_17
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 744
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 344b319033b103610800000000000000
+      internalID: 1598807773726094403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_deimaginator__x1_talk_png_1354836032 1_18
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 744
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16335e74b2f3c6dd0800000000000000
+      internalID: -2491547038720380063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_deimaginator__x1_talk_png_1354836032 1_19
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 744
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c4089f2dc7548b90800000000000000
+      internalID: -7240565762126510908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_deimaginator__x1_talk_png_1354836032 1_20
+      rect:
+        serializedVersion: 2
+        x: 1255
+        y: 744
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e74df40664550590800000000000000
+      internalID: -7708662390027630619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_deimaginator__x1_talk_png_1354836032 1_21
+      rect:
+        serializedVersion: 2
+        x: 1506
+        y: 744
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcc8552afaf1e81f0800000000000000
+      internalID: -1040859624672752437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_deimaginator__x1_talk_png_1354836032 1_22
+      rect:
+        serializedVersion: 2
+        x: 1757
+        y: 744
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b4205972626fa6a0800000000000000
+      internalID: -6435817167407536971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_deimaginator__x1_talk_png_1354836032 1_23
+      rect:
+        serializedVersion: 2
+        x: 2008
+        y: 744
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bca71abba0527d8a0800000000000000
+      internalID: -6280510427317044533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_deimaginator__x1_talk_png_1354836032 1_24
+      rect:
+        serializedVersion: 2
+        x: 2259
+        y: 744
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e056e2a3f91746d40800000000000000
+      internalID: 5576707167281374478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_deimaginator__x1_talk_png_1354836032 1_25
+      rect:
+        serializedVersion: 2
+        x: 2510
+        y: 744
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e71d200b3c01de70800000000000000
+      internalID: 9138098566457006048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_deimaginator__x1_talk_png_1354836032 1_26
+      rect:
+        serializedVersion: 2
+        x: 2761
+        y: 744
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11c71e702fea88b60800000000000000
+      internalID: 7748635513428474897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_deimaginator__x1_talk_png_1354836032 1_27
+      rect:
+        serializedVersion: 2
+        x: 3012
+        y: 744
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb7afddb7b3aba700800000000000000
+      internalID: 552715388842911679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_deimaginator__x1_talk_png_1354836032 1_28
+      rect:
+        serializedVersion: 2
+        x: 3263
+        y: 744
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c44cd14331960840800000000000000
+      internalID: 5189995269925389510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_deimaginator__x1_talk_png_1354836032 1_29
+      rect:
+        serializedVersion: 2
+        x: 3514
+        y: 744
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 225cfb9664d1018f0800000000000000
+      internalID: -571924964416961246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_deimaginator__x1_talk_png_1354836032 1_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 558
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9573e3fdceceb6ae0800000000000000
+      internalID: -1554888744224540839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_deimaginator__x1_talk_png_1354836032 1_31
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 558
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22a9113a1179ca140800000000000000
+      internalID: 4732323410465626658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_deimaginator__x1_talk_png_1354836032 1_32
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 558
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ec4ce27527624180800000000000000
+      internalID: -9132623683814404887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_deimaginator__x1_talk_png_1354836032 1_33
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 558
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8ed3ed1f756b4900800000000000000
+      internalID: 669740566231375502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_deimaginator__x1_talk_png_1354836032 1_34
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 558
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15480abe00f21f270800000000000000
+      internalID: 8282452870710723665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_deimaginator__x1_talk_png_1354836032 1_35
+      rect:
+        serializedVersion: 2
+        x: 1255
+        y: 558
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d8722128e92fa960800000000000000
+      internalID: 7615351571871856849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_deimaginator__x1_talk_png_1354836032 1_36
+      rect:
+        serializedVersion: 2
+        x: 1506
+        y: 558
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82ca3a43378e47e60800000000000000
+      internalID: 7959242022972533800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_deimaginator__x1_talk_png_1354836032 1_37
+      rect:
+        serializedVersion: 2
+        x: 1757
+        y: 558
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d1821da341338b60800000000000000
+      internalID: 7747089950743626198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_deimaginator__x1_talk_png_1354836032 1_38
+      rect:
+        serializedVersion: 2
+        x: 2008
+        y: 558
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5a2d265a804312f0800000000000000
+      internalID: -1003387329078023589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_deimaginator__x1_talk_png_1354836032 1_39
+      rect:
+        serializedVersion: 2
+        x: 2259
+        y: 558
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53de9014d4e1561b0800000000000000
+      internalID: -5664087639196046027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_deimaginator__x1_talk_png_1354836032 1_40
+      rect:
+        serializedVersion: 2
+        x: 2510
+        y: 558
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a4a2fe2a165994e0800000000000000
+      internalID: -1974452291168459611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_deimaginator__x1_talk_png_1354836032 1_41
+      rect:
+        serializedVersion: 2
+        x: 2761
+        y: 558
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfcb529e29c713d50800000000000000
+      internalID: 6715285489804754173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_deimaginator__x1_talk_png_1354836032 1_42
+      rect:
+        serializedVersion: 2
+        x: 3012
+        y: 558
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abd0ff23bfdb687a0800000000000000
+      internalID: -6375199335906341446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_deimaginator__x1_talk_png_1354836032 1_43
+      rect:
+        serializedVersion: 2
+        x: 3263
+        y: 558
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2873a75c239d1c70800000000000000
+      internalID: 8943466253685848109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_deimaginator__x1_talk_png_1354836032 1_44
+      rect:
+        serializedVersion: 2
+        x: 3514
+        y: 558
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fb5a3f158a8c4100800000000000000
+      internalID: 93601996627139572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_deimaginator__x1_talk_png_1354836032 1_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 372
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4997b2b3750a48b00800000000000000
+      internalID: 829964527858317716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_deimaginator__x1_talk_png_1354836032 1_46
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 372
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4557b98c6430b7e70800000000000000
+      internalID: 9113881873462555988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_deimaginator__x1_talk_png_1354836032 1_47
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 372
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b64933a18976d1cb0800000000000000
+      internalID: -4891639717282212757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_deimaginator__x1_talk_png_1354836032 1_48
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 372
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef633b37ba282fba0800000000000000
+      internalID: -6056634875967752450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_deimaginator__x1_talk_png_1354836032 1_49
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 372
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1401d04da46d1f30800000000000000
+      internalID: 4547901893993628698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_deimaginator__x1_talk_png_1354836032 1_50
+      rect:
+        serializedVersion: 2
+        x: 1255
+        y: 372
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 325269112204c1440800000000000000
+      internalID: 4907868208995116323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_deimaginator__x1_talk_png_1354836032 1_51
+      rect:
+        serializedVersion: 2
+        x: 1506
+        y: 372
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d755bb6b6d8814d70800000000000000
+      internalID: 9025645583997293949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_deimaginator__x1_talk_png_1354836032 1_52
+      rect:
+        serializedVersion: 2
+        x: 1757
+        y: 372
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ce17e9b3d6780270800000000000000
+      internalID: 8216948171866578630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_deimaginator__x1_talk_png_1354836032 1_53
+      rect:
+        serializedVersion: 2
+        x: 2008
+        y: 372
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b07236ee0b2ed6820800000000000000
+      internalID: 2913233783520175883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_deimaginator__x1_talk_png_1354836032 1_54
+      rect:
+        serializedVersion: 2
+        x: 2259
+        y: 372
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 018c9929f84298ba0800000000000000
+      internalID: -6086293222356039664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_deimaginator__x1_talk_png_1354836032 1_55
+      rect:
+        serializedVersion: 2
+        x: 2510
+        y: 372
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af8b5916aeb3f81e0800000000000000
+      internalID: -2193468615660553990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_deimaginator__x1_talk_png_1354836032 1_56
+      rect:
+        serializedVersion: 2
+        x: 2761
+        y: 372
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a0a3a5c242700420800000000000000
+      internalID: 2594199016474648745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_deimaginator__x1_talk_png_1354836032 1_57
+      rect:
+        serializedVersion: 2
+        x: 3012
+        y: 372
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f38ccb27d21c8f910800000000000000
+      internalID: 1871458046115104831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_deimaginator__x1_talk_png_1354836032 1_58
+      rect:
+        serializedVersion: 2
+        x: 3263
+        y: 372
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be5a7b12d8cc4dd70800000000000000
+      internalID: 9067096856331789803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_deimaginator__x1_talk_png_1354836032 1_59
+      rect:
+        serializedVersion: 2
+        x: 3514
+        y: 372
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fb8a7a8b6f2ba380800000000000000
+      internalID: -8959014894792176656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_deimaginator__x1_talk_png_1354836032 1_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 186
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1d6ef4d231a22250800000000000000
+      internalID: 5918470100012133659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_deimaginator__x1_talk_png_1354836032 1_61
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 186
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6910aa2ee426b5750800000000000000
+      internalID: 6294732995130163606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_deimaginator__x1_talk_png_1354836032 1_62
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 186
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf378b109bf2e79f0800000000000000
+      internalID: -468884839555632133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_deimaginator__x1_talk_png_1354836032 1_63
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 186
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef69a862bc76a8b40800000000000000
+      internalID: 5443277221853304574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_deimaginator__x1_talk_png_1354836032 1_64
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 186
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62e7a4c371c7ef880800000000000000
+      internalID: -8575280201229238746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_deimaginator__x1_talk_png_1354836032 1_65
+      rect:
+        serializedVersion: 2
+        x: 1255
+        y: 186
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f309f974f48c3a70800000000000000
+      internalID: 8808061156783096821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_deimaginator__x1_talk_png_1354836032 1_66
+      rect:
+        serializedVersion: 2
+        x: 1506
+        y: 186
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ee5d0bf7b6a5ad30800000000000000
+      internalID: 4442139916592045799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_deimaginator__x1_talk_png_1354836032 1_67
+      rect:
+        serializedVersion: 2
+        x: 1757
+        y: 186
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 853f3c1ffd7c2fcc0800000000000000
+      internalID: -3678658180960488616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_deimaginator__x1_talk_png_1354836032 1_68
+      rect:
+        serializedVersion: 2
+        x: 2008
+        y: 186
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8f650341ddcd0160800000000000000
+      internalID: 6993472095032536972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_deimaginator__x1_talk_png_1354836032 1_69
+      rect:
+        serializedVersion: 2
+        x: 2259
+        y: 186
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd26d134120bae280800000000000000
+      internalID: -9013198047322217764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_deimaginator__x1_talk_png_1354836032 1_70
+      rect:
+        serializedVersion: 2
+        x: 2510
+        y: 186
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15fbfccddd47f81d0800000000000000
+      internalID: -3346327501871792303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_deimaginator__x1_talk_png_1354836032 1_71
+      rect:
+        serializedVersion: 2
+        x: 2761
+        y: 186
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75346e2e945f601c0800000000000000
+      internalID: -4537669876841036969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_deimaginator__x1_talk_png_1354836032 1_72
+      rect:
+        serializedVersion: 2
+        x: 3012
+        y: 186
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba2818f7d7a16dad0800000000000000
+      internalID: -2677923802112752981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_deimaginator__x1_talk_png_1354836032 1_73
+      rect:
+        serializedVersion: 2
+        x: 3263
+        y: 186
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3540e06df2bd65630800000000000000
+      internalID: 3915557924546413651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_deimaginator__x1_talk_png_1354836032 1_74
+      rect:
+        serializedVersion: 2
+        x: 3514
+        y: 186
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37100c927268c0930800000000000000
+      internalID: 4110808062644715891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_deimaginator__x1_talk_png_1354836032 1_75
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7edeb61c37cab7c70800000000000000
+      internalID: 8969952696004767207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_deimaginator__x1_talk_png_1354836032 1_76
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 0
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f67e0123c53cd42c0800000000000000
+      internalID: -4445682456400435345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_deimaginator__x1_talk_png_1354836032 1_77
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 0
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f40029317d3350d0800000000000000
+      internalID: -3435334534254557966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_deimaginator__x1_talk_png_1354836032 1_78
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 0
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 052c49c6d809bb0d0800000000000000
+      internalID: -3405969756089171376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_deimaginator__x1_talk_png_1354836032 1_79
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 0
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 802af965ad08b0f80800000000000000
+      internalID: -8139270226297511416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_deimaginator__x1_talk_png_1354836032 1_80
+      rect:
+        serializedVersion: 2
+        x: 1255
+        y: 0
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53f62bed4ec977750800000000000000
+      internalID: 6302678710331010869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_deimaginator__x1_talk_png_1354836032 1_81
+      rect:
+        serializedVersion: 2
+        x: 1506
+        y: 0
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89b51995dcfdb58a0800000000000000
+      internalID: -6315207979393000552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_deimaginator__x1_talk_png_1354836032 1_82
+      rect:
+        serializedVersion: 2
+        x: 1757
+        y: 0
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6edfb2399c2460f0800000000000000
+      internalID: -1124724970442727825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_deimaginator__x1_talk_png_1354836032 1_83
+      rect:
+        serializedVersion: 2
+        x: 2008
+        y: 0
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86b8aad9c4f2fceb0800000000000000
+      internalID: -4697483880214918296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_deimaginator__x1_talk_png_1354836032 1_84
+      rect:
+        serializedVersion: 2
+        x: 2259
+        y: 0
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 878e53c1eda77cf40800000000000000
+      internalID: 5748698543736350840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_deimaginator__x1_talk_png_1354836032 1_85
+      rect:
+        serializedVersion: 2
+        x: 2510
+        y: 0
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b29da964b1d7684c0800000000000000
+      internalID: -4285600439294306005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_deimaginator__x1_talk_png_1354836032 1_86
+      rect:
+        serializedVersion: 2
+        x: 2761
+        y: 0
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b1123b0f7261f5b0800000000000000
+      internalID: -5336375785669127756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_deimaginator__x1_talk_png_1354836032 1_87
+      rect:
+        serializedVersion: 2
+        x: 3012
+        y: 0
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e810c96657018160800000000000000
+      internalID: 7025904961397463272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_deimaginator__x1_talk_png_1354836032 1_88
+      rect:
+        serializedVersion: 2
+        x: 3263
+        y: 0
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b42d915a3e02d860800000000000000
+      internalID: 7553115168693888179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

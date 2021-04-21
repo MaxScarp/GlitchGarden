@@ -6,10 +6,32 @@ public class Attacker : MonoBehaviour
     [SerializeField] GameObject deathVFX;
 
     float movementSpeed = 0.9f;
+    GameObject target;
 
     private void Update()
     {
         transform.Translate(Vector2.left * movementSpeed * Time.deltaTime);
+        UpdateAnimationState();
+    }
+
+    private void UpdateAnimationState()
+    {
+        if(!target)
+        {
+            GetComponent<Animator>().SetBool("isAttacking", false);
+        }
+    }
+
+    public void StrikeCurrentTarget(int damage)
+    {
+        if(!target || !target.GetComponent<Defender>()) { return; }
+        target.GetComponent<Defender>().LoseHealth(damage);
+    }
+
+    public void Attack(GameObject target)
+    {
+        GetComponent<Animator>().SetBool("isAttacking", true);
+        this.target = target;
     }
 
     public void SetMovementSpeed(float movementSpeed) { this.movementSpeed = movementSpeed; }
@@ -21,12 +43,15 @@ public class Attacker : MonoBehaviour
 
     private void ProcessHit(Collider2D collision)
     {
-        health -= collision.GetComponent<DamageDealer>().GetDamage();
-        Destroy(collision.gameObject);
-        if (health <= 0)
+        if(collision.GetComponent<DamageDealer>())
         {
-            TriggerDeathVFX();
-            Destroy(gameObject);
+            health -= collision.GetComponent<DamageDealer>().GetDamage();
+            Destroy(collision.gameObject);
+            if (health <= 0)
+            {
+                TriggerDeathVFX();
+                Destroy(gameObject);
+            }
         }
     }
 

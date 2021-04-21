@@ -232,6 +232,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   starCost: 50
+  health: 60
 --- !u!61 &4756046726659211913
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -245,7 +246,7 @@ BoxCollider2D:
   m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: 0, y: 0.020819485}
+  m_Offset: {x: -0.0018413663, y: 0.020154864}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0, y: 0}
@@ -256,7 +257,7 @@ BoxCollider2D:
     adaptiveTiling: 0
   m_AutoTiling: 0
   serializedVersion: 2
-  m_Size: {x: 1.4, y: 1.35}
+  m_Size: {x: 1.2932438, y: 1.2971332}
   m_EdgeRadius: 0
 --- !u!1 &4444841500480331386
 GameObject:
