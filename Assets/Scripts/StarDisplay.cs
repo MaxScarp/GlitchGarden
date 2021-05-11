@@ -1,7 +1,5 @@
-using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
 using TMPro;
+using UnityEngine;
 
 public class StarDisplay : MonoBehaviour
 {
@@ -30,7 +28,7 @@ public class StarDisplay : MonoBehaviour
 
     public void SpendStars(int stars)
     {
-        if(this.stars >= stars)
+        if (this.stars >= stars)
         {
             this.stars -= stars;
             UpdateDisplay();

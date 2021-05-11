@@ -5,7 +5,7 @@ public class AttackerSpawner : MonoBehaviour
 {
     [SerializeField] float minSpawnDelay = 1f;
     [SerializeField] float maxSpawnDelay = 5f;
-    [SerializeField] Attacker attackerPrefab;
+    [SerializeField] Attacker[] attackersPrefab;
 
     bool spawn = true;
 
@@ -20,7 +20,13 @@ public class AttackerSpawner : MonoBehaviour
 
     private void SpawnAttacker()
     {
-        Attacker attackerClone = Instantiate(attackerPrefab, transform.position, transform.rotation) as Attacker;
+        int random = Random.Range(0, attackersPrefab.Length);
+        Spawn(attackersPrefab[random]);
+    }
+
+    private void Spawn(Attacker attacker)
+    {
+        Attacker attackerClone = Instantiate(attacker, transform.position, transform.rotation) as Attacker;
         attackerClone.transform.parent = transform;
     }
 }

@@ -94,6 +94,7 @@ GameObject:
   - component: {fileID: 1223415586860692985}
   - component: {fileID: 4779621006329775828}
   - component: {fileID: 9146656239428441644}
+  - component: {fileID: 4479677368508497985}
   m_Layer: 0
   m_Name: Grave
   m_TagString: Untagged
@@ -175,3 +176,15 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 0.9964576, y: 1.0150735}
   m_EdgeRadius: 0
+--- !u!114 &4479677368508497985
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6112772741995402878}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3100e81ae621a7545802908a11fb051a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 

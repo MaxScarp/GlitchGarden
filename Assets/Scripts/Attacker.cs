@@ -16,7 +16,7 @@ public class Attacker : MonoBehaviour
 
     private void UpdateAnimationState()
     {
-        if(!target)
+        if (!target)
         {
             GetComponent<Animator>().SetBool("isAttacking", false);
         }
@@ -24,7 +24,7 @@ public class Attacker : MonoBehaviour
 
     public void StrikeCurrentTarget(int damage)
     {
-        if(!target || !target.GetComponent<Defender>()) { return; }
+        if (!target || !target.GetComponent<Defender>()) { return; }
         target.GetComponent<Defender>().LoseHealth(damage);
     }
 
@@ -43,7 +43,7 @@ public class Attacker : MonoBehaviour
 
     private void ProcessHit(Collider2D collision)
     {
-        if(collision.GetComponent<DamageDealer>())
+        if (collision.GetComponent<DamageDealer>())
         {
             health -= collision.GetComponent<DamageDealer>().GetDamage();
             Destroy(collision.gameObject);

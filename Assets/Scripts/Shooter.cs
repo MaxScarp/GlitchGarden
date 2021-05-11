@@ -16,7 +16,7 @@ public class Shooter : MonoBehaviour
 
     private void Update()
     {
-        if(IsAttackerInLane())
+        if (IsAttackerInLane())
         {
             animator.SetBool("isAttacking", true);
         }
@@ -30,11 +30,11 @@ public class Shooter : MonoBehaviour
     {
         AttackerSpawner[] spawners = FindObjectsOfType<AttackerSpawner>();
 
-        foreach(AttackerSpawner spawner in spawners)
+        foreach (AttackerSpawner spawner in spawners)
         {
             bool isCloseEnough = (Mathf.Abs(spawner.transform.position.y - transform.position.y) <= Mathf.Epsilon);
 
-            if(isCloseEnough)
+            if (isCloseEnough)
             {
                 myLaneSpawner = spawner;
             }
