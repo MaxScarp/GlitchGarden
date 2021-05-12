@@ -29,6 +29,11 @@ public class LevelLoader : MonoBehaviour
         SceneManager.LoadScene(currentSceneIndex + 1);
     }
 
+    public void LoadLastScene()
+    {
+        SceneManager.LoadScene(SceneManager.sceneCountInBuildSettings - 1);
+    }
+
     public void Quit()
     {
         Application.Quit();

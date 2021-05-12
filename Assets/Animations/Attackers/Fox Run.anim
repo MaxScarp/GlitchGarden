@@ -21,33 +21,33 @@ AnimationClip:
   - curve:
     - time: 0
       value: {fileID: 2155658998991076983, guid: ff0b3eda577173345b3df178dbc1c26b, type: 3}
-    - time: 0.055555556
+    - time: 0.04761905
       value: {fileID: 4823829799202629916, guid: ff0b3eda577173345b3df178dbc1c26b, type: 3}
-    - time: 0.11111111
+    - time: 0.0952381
       value: {fileID: -2000327310567721588, guid: ff0b3eda577173345b3df178dbc1c26b, type: 3}
-    - time: 0.16666667
+    - time: 0.14285715
       value: {fileID: 3868923969013967165, guid: ff0b3eda577173345b3df178dbc1c26b, type: 3}
-    - time: 0.22222222
+    - time: 0.1904762
       value: {fileID: -6203815115807841975, guid: ff0b3eda577173345b3df178dbc1c26b, type: 3}
-    - time: 0.2777778
+    - time: 0.23809524
       value: {fileID: -3552490842449353832, guid: ff0b3eda577173345b3df178dbc1c26b, type: 3}
-    - time: 0.33333334
+    - time: 0.2857143
       value: {fileID: -7674139031415464784, guid: ff0b3eda577173345b3df178dbc1c26b, type: 3}
-    - time: 0.3888889
+    - time: 0.33333334
       value: {fileID: 8687471615896636447, guid: ff0b3eda577173345b3df178dbc1c26b, type: 3}
-    - time: 0.44444445
+    - time: 0.3809524
       value: {fileID: 8694989211473990966, guid: ff0b3eda577173345b3df178dbc1c26b, type: 3}
-    - time: 0.5
+    - time: 0.42857143
       value: {fileID: -8458764598733295625, guid: ff0b3eda577173345b3df178dbc1c26b, type: 3}
-    - time: 0.5555556
+    - time: 0.47619048
       value: {fileID: -5973461719955292170, guid: ff0b3eda577173345b3df178dbc1c26b, type: 3}
-    - time: 0.6111111
+    - time: 0.52380955
       value: {fileID: -6394786653493548470, guid: ff0b3eda577173345b3df178dbc1c26b, type: 3}
     attribute: m_Sprite
     path: Body
     classID: 212
     script: {fileID: 0}
-  m_SampleRate: 18
+  m_SampleRate: 21
   m_WrapMode: 0
   m_Bounds:
     m_Center: {x: 0, y: 0, z: 0}
@@ -79,7 +79,7 @@ AnimationClip:
     m_AdditiveReferencePoseClip: {fileID: 0}
     m_AdditiveReferencePoseTime: 0
     m_StartTime: 0
-    m_StopTime: 0.6666667
+    m_StopTime: 0.5714286
     m_OrientationOffsetY: 0
     m_Level: 0
     m_CycleOffset: 0
@@ -106,10 +106,10 @@ AnimationClip:
     floatParameter: 0
     intParameter: 0
     messageOptions: 0
-  - time: 0.055555556
+  - time: 0.04761905
     functionName: SetMovementSpeed
     data: 
     objectReferenceParameter: {fileID: 0}
-    floatParameter: 1
+    floatParameter: 1.5
     intParameter: 0
     messageOptions: 0
