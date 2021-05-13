@@ -5,8 +5,19 @@ public class Attacker : MonoBehaviour
     [SerializeField] int health = 10;
     [SerializeField] GameObject deathVFX;
 
-    float movementSpeed = 0.9f;
     GameObject target;
+
+    float movementSpeed = 0.9f;
+
+    private void Awake()
+    {
+        FindObjectOfType<LevelController>().AddAttackersNumber();
+    }
+
+    private void OnDestroy()
+    {
+        FindObjectOfType<LevelController>().SubtractAttackersNumber();
+    }
 
     private void Update()
     {
@@ -49,10 +60,15 @@ public class Attacker : MonoBehaviour
             Destroy(collision.gameObject);
             if (health <= 0)
             {
-                TriggerDeathVFX();
-                Destroy(gameObject);
+                Die();
             }
         }
+    }
+
+    public void Die()
+    {
+        TriggerDeathVFX();
+        Destroy(gameObject);
     }
 
     private void TriggerDeathVFX()

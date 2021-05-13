@@ -6,4 +6,9 @@ public class PlayerZone : MonoBehaviour
     {
         FindObjectOfType<LivesDisplay>().LoseLife();
     }
+
+    private void OnTriggerExit2D(Collider2D collision)
+    {
+        collision.GetComponent<Attacker>().Die();
+    }
 }
