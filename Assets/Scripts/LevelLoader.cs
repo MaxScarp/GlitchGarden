@@ -23,6 +23,18 @@ public class LevelLoader : MonoBehaviour
         LoadNextScene();
     }
 
+    public void RestartCurrentLevel()
+    {
+        Time.timeScale = 1;
+        SceneManager.LoadScene(SceneManager.GetActiveScene().name);
+    }
+
+    public void MainMenu()
+    {
+        Time.timeScale = 1;
+        SceneManager.LoadScene(1);
+    }
+
     public void LoadNextScene()
     {
         currentSceneIndex = SceneManager.GetActiveScene().buildIndex;

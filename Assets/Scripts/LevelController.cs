@@ -5,6 +5,7 @@ using UnityEngine.UI;
 public class LevelController : MonoBehaviour
 {
     [SerializeField] GameObject winLabel;
+    [SerializeField] GameObject loseLabel;
 
     Slider timer;
 
@@ -18,6 +19,7 @@ public class LevelController : MonoBehaviour
         if (!timer) { Debug.LogError("Nessuno slider presente in scena."); }
 
         winLabel.SetActive(false);
+        loseLabel.SetActive(false);
     }
 
     public void AddAttackersNumber()
@@ -55,5 +57,11 @@ public class LevelController : MonoBehaviour
         GetComponent<AudioSource>().Play();
         yield return new WaitForSeconds(waitToLoad);
         GetComponent<LevelLoader>().LoadNextScene();
+    }
+
+    public void HandleLoseCondition()
+    {
+        loseLabel.SetActive(true);
+        Time.timeScale = 0;
     }
 }
