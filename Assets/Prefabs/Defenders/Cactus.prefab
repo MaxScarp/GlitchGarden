@@ -48,7 +48,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   starCost: 100
-  health: 90
+  health: 100
 --- !u!95 &1737219902
 Animator:
   serializedVersion: 3

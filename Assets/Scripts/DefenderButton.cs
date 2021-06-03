@@ -1,8 +1,29 @@
 using UnityEngine;
+using TMPro;
 
 public class DefenderButton : MonoBehaviour
 {
     [SerializeField] Defender defenderPrefab;
+
+    TextMeshProUGUI costText;
+
+    private void Start()
+    {
+        LabelButtonWithCost();
+    }
+
+    private void LabelButtonWithCost()
+    {
+        costText = GetComponentInChildren<TextMeshProUGUI>();
+        if(!costText)
+        {
+            Debug.LogError(name + "Manca l'ettichetta con il costo, mettine una!");
+        }
+        else
+        {
+            costText.text = defenderPrefab.GetStarCost().ToString();
+        }
+    }
 
     private void OnMouseDown()
     {

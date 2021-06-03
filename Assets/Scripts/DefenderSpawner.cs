@@ -3,6 +3,23 @@ using UnityEngine;
 public class DefenderSpawner : MonoBehaviour
 {
     Defender defenderPrefab;
+    GameObject defendersParent;
+
+    const string DEFENDERS_PARENT_NAME = "Defenders";
+
+    private void Start()
+    {
+        CreateDefendersParent();
+    }
+
+    private void CreateDefendersParent()
+    {
+        defendersParent = GameObject.Find(DEFENDERS_PARENT_NAME);
+        if (!defendersParent)
+        {
+            defendersParent = new GameObject(DEFENDERS_PARENT_NAME);
+        }
+    }
 
     public void SetDefenderPrefab(Defender defenderPrefab)
     {
@@ -23,6 +40,7 @@ public class DefenderSpawner : MonoBehaviour
     private void SpawnDefender(Vector2 gridPos)
     {
         Defender defender = Instantiate(defenderPrefab, gridPos, Quaternion.identity) as Defender;
+        defender.transform.parent = defendersParent.transform;
     }
 
     private Vector2 GetSquareClicked()

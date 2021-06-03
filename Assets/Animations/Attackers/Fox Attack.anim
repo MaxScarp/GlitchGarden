@@ -195,12 +195,12 @@ AnimationClip:
     data: 
     objectReferenceParameter: {fileID: 0}
     floatParameter: 0
-    intParameter: 10
+    intParameter: 30
     messageOptions: 0
   - time: 1.4761904
     functionName: StrikeCurrentTarget
     data: 
     objectReferenceParameter: {fileID: 0}
     floatParameter: 0
-    intParameter: 10
+    intParameter: 30
     messageOptions: 0

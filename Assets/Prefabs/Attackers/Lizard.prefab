@@ -149,7 +149,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ca59d34a634c34c4192acc93794ac2f5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  health: 10
+  health: 15
   deathVFX: {fileID: 6818436057972316261, guid: f6ae28319c04f084fa38010e363c2272, type: 3}
 --- !u!60 &2877752092601388687
 PolygonCollider2D:

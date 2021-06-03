@@ -3,28 +3,29 @@ using UnityEngine;
 
 public class LivesDisplay : MonoBehaviour
 {
-    [SerializeField] int lives = 5;
     [SerializeField] int damage = 1;
 
+    int baseLives = 5;
     TextMeshProUGUI LivesText;
 
     private void Start()
     {
+        baseLives -= PlayerPrefsController.GetDifficulty();
         LivesText = GetComponent<TextMeshProUGUI>();
         UpdateDisplay();
     }
 
     private void UpdateDisplay()
     {
-        LivesText.text = lives.ToString();
+        LivesText.text = baseLives.ToString();
     }
 
     public void LoseLife()
     {
-        lives -= damage;
+        baseLives -= damage;
         UpdateDisplay();
 
-        if(lives <= 0)
+        if(baseLives <= 0)
         {
             FindObjectOfType<LevelController>().HandleLoseCondition();
         }
