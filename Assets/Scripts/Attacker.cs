@@ -6,18 +6,20 @@ public class Attacker : MonoBehaviour
     [SerializeField] GameObject deathVFX;
 
     GameObject target;
+    AudioSource audioSource;
 
     float movementSpeed = 0.9f;
 
     private void Awake()
     {
         FindObjectOfType<LevelController>().AddAttackersNumber();
+        audioSource = GetComponent<AudioSource>();
     }
 
     private void OnDestroy()
     {
         LevelController levelController = FindObjectOfType<LevelController>();
-        if(levelController != null)
+        if (levelController != null)
         {
             levelController.SubtractAttackersNumber();
         }
@@ -60,6 +62,7 @@ public class Attacker : MonoBehaviour
     {
         if (collision.GetComponent<DamageDealer>())
         {
+            audioSource.PlayOneShot(audioSource.clip);
             health -= collision.GetComponent<DamageDealer>().GetDamage();
             Destroy(collision.gameObject);
             if (health <= 0)
@@ -77,7 +80,6 @@ public class Attacker : MonoBehaviour
 
     private void TriggerDeathVFX()
     {
-        if (!deathVFX) { return; }
         GameObject smoke = Instantiate(deathVFX, (new Vector2(transform.position.x + -0.3f, transform.position.y)), transform.rotation);
         Destroy(smoke, 1.5f);
     }
