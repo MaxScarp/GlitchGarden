@@ -262,7 +262,7 @@ PrefabInstance:
     - target: {fileID: 997450672191841874, guid: d470e8099e4de764b9c18aa99500e273, type: 3}
       propertyPath: attackersPrefab.Array.data[0]
       value: 
-      objectReference: {fileID: 3980078735238944923, guid: 61cb7db1049cda043b94ac91070c24f1, type: 3}
+      objectReference: {fileID: 5477095387350412811, guid: 197155a276452284d9b68600c8d29de8, type: 3}
     - target: {fileID: 997450672924796470, guid: d470e8099e4de764b9c18aa99500e273, type: 3}
       propertyPath: m_Name
       value: Spawners
@@ -326,7 +326,7 @@ PrefabInstance:
     - target: {fileID: 997450673298873176, guid: d470e8099e4de764b9c18aa99500e273, type: 3}
       propertyPath: attackersPrefab.Array.data[0]
       value: 
-      objectReference: {fileID: 3980078735238944923, guid: 61cb7db1049cda043b94ac91070c24f1, type: 3}
+      objectReference: {fileID: 5477095387350412811, guid: 197155a276452284d9b68600c8d29de8, type: 3}
     - target: {fileID: 997450673950933912, guid: d470e8099e4de764b9c18aa99500e273, type: 3}
       propertyPath: maxSpawnDelay
       value: 20
@@ -342,7 +342,7 @@ PrefabInstance:
     - target: {fileID: 997450673950933912, guid: d470e8099e4de764b9c18aa99500e273, type: 3}
       propertyPath: attackersPrefab.Array.data[0]
       value: 
-      objectReference: {fileID: 3980078735238944923, guid: 61cb7db1049cda043b94ac91070c24f1, type: 3}
+      objectReference: {fileID: 5477095387350412811, guid: 197155a276452284d9b68600c8d29de8, type: 3}
     - target: {fileID: 997450673957040993, guid: d470e8099e4de764b9c18aa99500e273, type: 3}
       propertyPath: maxSpawnDelay
       value: 20
@@ -358,7 +358,7 @@ PrefabInstance:
     - target: {fileID: 997450673957040993, guid: d470e8099e4de764b9c18aa99500e273, type: 3}
       propertyPath: attackersPrefab.Array.data[0]
       value: 
-      objectReference: {fileID: 3980078735238944923, guid: 61cb7db1049cda043b94ac91070c24f1, type: 3}
+      objectReference: {fileID: 5477095387350412811, guid: 197155a276452284d9b68600c8d29de8, type: 3}
     - target: {fileID: 997450673972572939, guid: d470e8099e4de764b9c18aa99500e273, type: 3}
       propertyPath: maxSpawnDelay
       value: 20
@@ -374,7 +374,7 @@ PrefabInstance:
     - target: {fileID: 997450673972572939, guid: d470e8099e4de764b9c18aa99500e273, type: 3}
       propertyPath: attackersPrefab.Array.data[0]
       value: 
-      objectReference: {fileID: 3980078735238944923, guid: 61cb7db1049cda043b94ac91070c24f1, type: 3}
+      objectReference: {fileID: 5477095387350412811, guid: 197155a276452284d9b68600c8d29de8, type: 3}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: d470e8099e4de764b9c18aa99500e273, type: 3}
 --- !u!1001 &1187814096339864412
@@ -567,6 +567,10 @@ PrefabInstance:
     - target: {fileID: 4072807079445614217, guid: 2ed6c3c163f90644e80dc4daf2a71be4, type: 3}
       propertyPath: m_Name
       value: Lose Canvas
+      objectReference: {fileID: 0}
+    - target: {fileID: 4072807079445614217, guid: 2ed6c3c163f90644e80dc4daf2a71be4, type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 5881396896325210995, guid: 2ed6c3c163f90644e80dc4daf2a71be4, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.size
@@ -1072,7 +1076,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 801849178, guid: c45487d61ca48864ebb657ee6f569320, type: 3}
       propertyPath: stars
-      value: 200
+      value: 395
       objectReference: {fileID: 0}
     - target: {fileID: 1029827182, guid: c45487d61ca48864ebb657ee6f569320, type: 3}
       propertyPath: m_AnchorMax.x
