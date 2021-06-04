@@ -6,11 +6,13 @@ public class LevelController : MonoBehaviour
 {
     [SerializeField] GameObject winLabel;
     [SerializeField] GameObject loseLabel;
+    [SerializeField] GameObject pauseLabel;
 
     Slider timer;
 
     int attackersNumber = 0;
     bool timerFinished = false;
+    bool isPaused = false;
     float waitToLoad = 4.5f;
 
     private void Start()
@@ -20,6 +22,33 @@ public class LevelController : MonoBehaviour
 
         winLabel.SetActive(false);
         loseLabel.SetActive(false);
+        pauseLabel.SetActive(false);
+    }
+
+    private void Update()
+    {
+        if(Input.GetKeyDown(KeyCode.Escape) && !(isPaused))
+        {
+            Pause();
+        }
+        else if(Input.GetKeyDown(KeyCode.Escape) && isPaused)
+        {
+            Resume();
+        }
+    }
+
+    private void Resume()
+    {
+        isPaused = false;
+        Time.timeScale = 1f;
+        pauseLabel.SetActive(false);
+    }
+
+    private void Pause()
+    {
+        isPaused = true;
+        Time.timeScale = 0f;
+        pauseLabel.SetActive(true);
     }
 
     public void AddAttackersNumber()
